@@ -1,0 +1,435 @@
+Manifest-Version: 1.0
+Created-By: d2j-apk-sign 1.06
+
+Name: assets/img/bsfl_03.png
+SHA1-Digest: CO9folWIf4x2JHCxHzg/57wL5Mw=
+
+Name: assets/skin/bsfl_snake_Skin_10.png
+SHA1-Digest: uxQg1vzBKJBPK7MH8d56NpmF8Q0=
+
+Name: assets/audio/bsfl_ef_succ.mp3
+SHA1-Digest: Ji0f8CEZc77s/PpLa4Hjiy/5js0=
+
+Name: assets/img/bsfl_mall_skin_btn0.png
+SHA1-Digest: KtK6+TVpk4GW1nvVWIAufmD8P7Y=
+
+Name: assets/img/bsfl_mall_b_gold_bg.png
+SHA1-Digest: YhRWB3wtGDcfV25r5an3NCzzifk=
+
+Name: assets/zhangpay_pic/loading_360.png
+SHA1-Digest: lqED+IqiNU4zkviRQMy3QV9jHs0=
+
+Name: assets/img/bsfl_chg_b_cl.png
+SHA1-Digest: AVzaSmMSlazsnQWNmMOOe3arofA=
+
+Name: assets/img/bsfl_mall_b_got_01.png
+SHA1-Digest: AvpljaJ27EAt0Y3D97CUQJehz+8=
+
+Name: assets/skin/bsfl_snake_Skin_5.png
+SHA1-Digest: jfRFwieJFNn6bJJR1WrrQ3ISLd0=
+
+Name: assets/skin/bsfl_snake_Skin_7.png
+SHA1-Digest: LhQe2NuEQ5BBTYM//IkEMvLnQkw=
+
+Name: assets/zhangpay_pic/button_on.9.png
+SHA1-Digest: 7SDh5xGH/Juh8vmVXEaLut6RT8c=
+
+Name: assets/img/bsfl_chg_gift6.png
+SHA1-Digest: 3iGqVayShYZwvGq24K6zdUR3X08=
+
+Name: assets/ui/bsfl_ShopItemNode.csb
+SHA1-Digest: Fq+jQKN2rJtI28HC3DuwAXRl3hQ=
+
+Name: assets/img/bsfl_pause_bg.png
+SHA1-Digest: 0kjJnxfzibWwBF5M6pVaRkG8Axw=
+
+Name: assets/skin/bsfl_skin_invi_bg.png
+SHA1-Digest: r3L61vnQG3mYX4ln8gBTTQUqF7w=
+
+Name: assets/audio/bsfl_bg_cover.mp3
+SHA1-Digest: xcZB1JEnuDbodkgKNx8PSzXSP1I=
+
+Name: assets/img/bsfl_cover_b2.png
+SHA1-Digest: MZ5bX4/tmi0hZnbZRRVDzlHqhso=
+
+Name: assets/zhangpay_pic/loading_bg.png
+SHA1-Digest: ObKUwqGIb+VIT2wpfiD4f9nvI/k=
+
+Name: assets/img/bsfl_mall_skin_names.png
+SHA1-Digest: px+rm1Exq8DTNoKHXH2Mz+QV0Rg=
+
+Name: assets/img/bsfl_pause_b_2.png
+SHA1-Digest: ZfL78ms7+W07eVHnVfNhvGFI1rI=
+
+Name: assets/audio/bsfl_ef_kill.mp3
+SHA1-Digest: 5gnx3k1qO3jJpXXIMp8Owiy+s+E=
+
+Name: assets/img/bsfl_num4.png
+SHA1-Digest: jLa1VkcExflJt7bcFLerIURqERQ=
+
+Name: assets/zhangpay_pic/close_normal.9.png
+SHA1-Digest: BIfwka/0RqiEM+ouk7wiIQtmi4Q=
+
+Name: assets/skin/bsfl_snake_Skin_9.png
+SHA1-Digest: +lE0+bMnYPdzVcB0IAZRer2cjZ4=
+
+Name: assets/skin/bsfl_snake_Skin_12.png
+SHA1-Digest: EvKpNSXKrjGhF8kYk0/2RLdvIcw=
+
+Name: assets/img/bsfl_coin_yuan.png
+SHA1-Digest: 4NrPIhvKaSirzXYjKfNCTZZzVcM=
+
+Name: assets/img/bsfl_mall_b_all_01.png
+SHA1-Digest: 97jTjABd5x9E+dvz0VOq8/P/RHM=
+
+Name: assets/img/bsfl_chg_gift1.png
+SHA1-Digest: p+IR4ichND5a8NxWAlChE2uF5H4=
+
+Name: assets/img/bsfl_chg_gift8.png
+SHA1-Digest: +XNTTYIorMwQpAMtucqY8BXYh0A=
+
+Name: assets/img/bsfl_num2.png
+SHA1-Digest: VsYke1njruGMXpNQOXGwqVuHsnk=
+
+Name: assets/img/bsfl_statistic_info_bg.png
+SHA1-Digest: mrffRi6M33pW+s9wF9Cnapcv3z0=
+
+Name: assets/img/bsfl_cover.jpg
+SHA1-Digest: EaZAZWAJjf6jesPBLvZuWFtM7pE=
+
+Name: resources.arsc
+SHA1-Digest: hgWGYJerGBckcFgwXgOGOx2YkV8=
+
+Name: assets/img/bsfl_mall_bg.jpg
+SHA1-Digest: KPSRmamIOu7kd3QF/mfKl1X1Fi0=
+
+Name: assets/img/bsfl_cover_b0.png
+SHA1-Digest: p0wVGJpUsqHpJ2/LgMeyUr2uq5g=
+
+Name: assets/img/bsfl_num10.png
+SHA1-Digest: MJoKxjjT6HYIzw2XeopqC3AfYXk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EOam0XHlZK4d6XLxxFo8eR1f6Fk=
+
+Name: assets/img/bsfl_cover_b5.png
+SHA1-Digest: ff+Mb+HGOHLiWzDSf15J+B6RHI4=
+
+Name: assets/img/bsfl_mall_title.png
+SHA1-Digest: xLYwdXPc+WqXm8t+1k54yHpMRTE=
+
+Name: assets/img/bsfl_num1.png
+SHA1-Digest: Fr68oeCmJouP0dFrD1SbX/fEgIw=
+
+Name: assets/img/bsfl_line.png
+SHA1-Digest: 7OxYuRiErraL56yhFpRkv97/J2U=
+
+Name: assets/img/bsfl_chg_yuan.png
+SHA1-Digest: vZgtjTzruncasa3w8QLVdMTwh7w=
+
+Name: assets/yjinfo.zip
+SHA1-Digest: Eh/mmwJ7TAgJidZe6x5p/wuKAU0=
+
+Name: assets/img/bsfl_pause_b_0.png
+SHA1-Digest: 2SDVCik1XvRmQU8X2DsJjbrDRL4=
+
+Name: assets/skin/bsfl_snake_Skin_14.png
+SHA1-Digest: 1DgNqSNJpCKaUplzZTUt38LvmoM=
+
+Name: assets/img/bsfl_setting_close.png
+SHA1-Digest: +hNCgu4nGy2USddgf4S8W4Wd+DI=
+
+Name: assets/skin/bsfl_snake_Skin_16.png
+SHA1-Digest: BA+B/FtEa6rRgORmDCZacEepZyE=
+
+Name: assets/img/bsfl_about_str.jpg
+SHA1-Digest: EZKW3WE0HhEbQs4QulSdwaPrSr4=
+
+Name: assets/skin/bsfl_snake_Skin_2.png
+SHA1-Digest: yN9yOfKEWAUuReVwiQNeqePaU/E=
+
+Name: assets/img/bsfl_cover_name.png
+SHA1-Digest: uzZ7nPH3NYtqawHZkPE/ZfZKixM=
+
+Name: assets/img/bsfl_mall_b_all_02.png
+SHA1-Digest: 1DmJSRE1i9xO08FRT8t1IjsbVHI=
+
+Name: assets/img/bsfl_mall_skin_bg0.png
+SHA1-Digest: DkpYH/GBpUDU4ao4/19w38P+Nb0=
+
+Name: assets/img/bsfl_chg_b_ok1.png
+SHA1-Digest: jac/o8PGIjoLBfdnH+v6Kxq7hyQ=
+
+Name: assets/img/bsfl_chg_gift2.png
+SHA1-Digest: 5bcFF3L9bSW+pbNtpjggKcfFNKk=
+
+Name: assets/zhangpay_pic/button_normal.9.png
+SHA1-Digest: r+F70enejLBnx0OO0BS/kbNBHaQ=
+
+Name: assets/img/bsfl_num8.png
+SHA1-Digest: yqrtcqBDInCQ+m5KkZ/Ii6bo18o=
+
+Name: assets/img/bsfl_cover_b3.png
+SHA1-Digest: d74SU9Q8R94sgCAxXC8n9es4GdE=
+
+Name: assets/ui/bsfl_InfoLayer.csb
+SHA1-Digest: MZ1RXm/t8Huim/IJ787HQpKT7CE=
+
+Name: assets/ui/bsfl_ShopLayer.csb
+SHA1-Digest: Uutdllwjj762x8/NoEe8hP0VvbU=
+
+Name: assets/audio/bsfl_ef_button0.mp3
+SHA1-Digest: tSTavXJA8GwPbqOajlHju8t+EQo=
+
+Name: assets/img/bsfl_mall_skin_btn2.png
+SHA1-Digest: bcKlUrg1N71C2QuDK6usDuu89/M=
+
+Name: assets/bsfl_skin_invi_deco.plist
+SHA1-Digest: Bt64uYfWR4QE12vd2lRosMPwbjo=
+
+Name: assets/zhangpay_pic/close_pressed.9.png
+SHA1-Digest: yOrPsb/KF4dgHSaE8Gn25W1/Jx0=
+
+Name: assets/img/bsfl_chg_gift4.png
+SHA1-Digest: UXQdqXDbVKWpgtmBUXuCTAq7xII=
+
+Name: assets/skin/bsfl_snake_Skin_4.png
+SHA1-Digest: QF3VQww+jQ6mV9e02iRsvT/Bud0=
+
+Name: assets/img/bsfl_01.png
+SHA1-Digest: eZ3720TRLS3cinI9J9YgHzqDwA8=
+
+Name: assets/img/bsfl_bugbtn.png
+SHA1-Digest: SefZJ+heQbb4qFDXmt52v0TXjk8=
+
+Name: assets/img/bsfl_mall_title_bg.png
+SHA1-Digest: HbogBiBBb1CZGGeMq60iBPysLlU=
+
+Name: assets/img/bsfl_mall_skin_locked.png
+SHA1-Digest: dbb1mf8W0ek0tQGvv86TB+StANM=
+
+Name: assets/img/bsfl_over_title.png
+SHA1-Digest: gfhm02bc7sSH0I0h2YK6Er4ULfI=
+
+Name: assets/img/bsfl_chg_gift7.png
+SHA1-Digest: xkCcIuh+widCoDp3oGmBGHXNiUg=
+
+Name: assets/skin/bsfl_snake_Skin_6.png
+SHA1-Digest: 8W5w/cBibiwclun4mUvXhVbV+9M=
+
+Name: assets/img/bsfl_run_bg.png
+SHA1-Digest: MSKFvmJw26i9l8JAk09dX98ea2w=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: trm8+kpU4AfHstLRs7DdPjD1SFU=
+
+Name: assets/img/bsfl_mall_skin_btn1.png
+SHA1-Digest: LKjUGxJlBdzRa49S8d9KUjlkRfY=
+
+Name: assets/img/bsfl_setting_sel.png
+SHA1-Digest: lWcy12InSWuPjJWm8IQXVnVRQ0E=
+
+Name: assets/img/bsfl_mall_b_gold_add.png
+SHA1-Digest: JX+gt4c2DBzsu06TAuKiSrdzPO4=
+
+Name: assets/img/bsfl_cover_b1.png
+SHA1-Digest: Q9GOgDN9KaulxkZ7wzqt3fro+qw=
+
+Name: assets/img/bsfl_run_rank_top.png
+SHA1-Digest: S+I7zCTHyeQr61F2A4++e4B1LWc=
+
+Name: assets/img/bsfl_mall_b_got_02.png
+SHA1-Digest: rZTW2SCh7bBimfTtAk+Wr3VJUW8=
+
+Name: assets/img/bsfl_num5.png
+SHA1-Digest: Hr3UWbnYXCvXvnZ6tnjCvFPjt0c=
+
+Name: assets/audio/bsfl_ef_fail.mp3
+SHA1-Digest: cOErADMvCzddP8qm7yOT2CBEsdQ=
+
+Name: assets/img/bsfl_icon_coin.png
+SHA1-Digest: +eX3sBn6hTmkBtPsoA246s6sRXY=
+
+Name: assets/ui/bsfl_GiftLayer.csb
+SHA1-Digest: VRuOsQtsxjmfVUfLucjRDxJyheo=
+
+Name: assets/ui/bsfl_HelpLayer.csb
+SHA1-Digest: yW3MHAyVirMFD9km338vk5XfOBQ=
+
+Name: assets/img/bsfl_run_b_burst.png
+SHA1-Digest: AqXv7w/eYSFeBwmXmd5Y4M+VqK4=
+
+Name: assets/img/bsfl_run_b_invi.png
+SHA1-Digest: tCFRu6F8SSOQjEIntyReX+GN+Zo=
+
+Name: assets/img/bsfl_cover_b8.png
+SHA1-Digest: B7okYrGEcsjoP5Brw/tucnvG3KU=
+
+Name: assets/img/bsfl_particle_shape.png
+SHA1-Digest: ZqYyMBLmR3p9ROlor90ktdBAKko=
+
+Name: assets/img/bsfl_chg_gift9.png
+SHA1-Digest: EMJqHA6qpQ5vvzeswWDzRSYJWxs=
+
+Name: assets/img/bsfl_num11.png
+SHA1-Digest: BhXjoZmVYmNHFgXuSYIC5fBJgPQ=
+
+Name: assets/ui/bsfl_exitlibao.csb
+SHA1-Digest: HvebWrKZnQK8NquX04s62IN9Op8=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: DPkrkRRLIA2HhkWOVSyiFRE1SzM=
+
+Name: assets/ui/bsfl_MainLayer.csb
+SHA1-Digest: RcMpI2/bT72dvlqF5TpGZd9iM3k=
+
+Name: assets/img/bsfl_pause_b_1.png
+SHA1-Digest: ZeiZ7+5bGDJvlDCEN8Jc4BPTn04=
+
+Name: assets/img/bsfl_run_b_pause.png
+SHA1-Digest: JYAorfeo0vPboHWVjzsLvLSYHOo=
+
+Name: assets/img/bsfl_mall_skin_bg1.png
+SHA1-Digest: H5k3rawArqcNP30xK24VIU6apT8=
+
+Name: assets/audio/bsfl_ef_burst.mp3
+SHA1-Digest: /q0Cj9URj7dPIWY+sAm3eWCmexE=
+
+Name: assets/skin/bsfl_snake_Skin_11.png
+SHA1-Digest: L0eUhsjhTFifeeFa8RZf8dVwOHY=
+
+Name: assets/config.info
+SHA1-Digest: ZlNZxwT+xmW3kIEummLgr7ooQAU=
+
+Name: assets/yjinfo.so
+SHA1-Digest: VLMERfSuOQfKqJ5ShAB94iEnlEE=
+
+Name: assets/Sonnenblume/zy_common_config_local.data
+SHA1-Digest: aIuDCF1DgOc1b2RZSdSuSS8K4as=
+
+Name: assets/img/bsfl_chg_gift0.png
+SHA1-Digest: H52Slgflwx3Vnwra1ACrdfb8Mbg=
+
+Name: assets/skin/bsfl_snake_Skin_8.png
+SHA1-Digest: bZNp5oL6vGhiAndO8ZnlRCQhPEw=
+
+Name: assets/skin/bsfl_snake_Skin_1.png
+SHA1-Digest: ZjExGFFP6qOW8OUqC5rteQvkBnQ=
+
+Name: assets/skin/bsfl_snake_Skin_15.png
+SHA1-Digest: VLL/8ymcff1zJ6U+V8iIeNwy2kY=
+
+Name: assets/bsfl_skin_invi_deco.png
+SHA1-Digest: 6P5N5bk89gkD2vhQmxhvc5QX5SI=
+
+Name: assets/zhangpay_pic/zhangpay_bg.9.png
+SHA1-Digest: 53NWIByRlJV5IIQ0iSXJVVlC0Gc=
+
+Name: assets/img/bsfl_coin_y.png
+SHA1-Digest: d59HTgffbFrj3kAEeWvlsrLLvM0=
+
+Name: assets/img/bsfl_pass_title.png
+SHA1-Digest: K0Unaoc5Ll8VtE2raM9LB91HHUs=
+
+Name: assets/img/bsfl_setting_bg.png
+SHA1-Digest: deZ9F3OtvmCtdd4PEomiNKh6u94=
+
+Name: assets/tongyu-pay-lib.apk
+SHA1-Digest: wWlKJCO5tlAuCxILNRNcjNyU8xY=
+
+Name: assets/img/bsfl_chg_b_ok0.png
+SHA1-Digest: CcnENGnq/lVa0OdV1/VRHpdw/PE=
+
+Name: assets/img/bsfl_run_move_panel.png
+SHA1-Digest: CNLl3JGT+brLpNwScV/BNZQwhiA=
+
+Name: res/drawable-hdpi-v4/heju_window_bg.xml
+SHA1-Digest: 7WaAp84XU8ynTiAtRM1dsptmUVQ=
+
+Name: assets/img/bsfl_chg_gift3.png
+SHA1-Digest: vgCG2jNsnv8qwSIo0Ru/WjDrOzs=
+
+Name: assets/1E7CC/C27E2
+SHA1-Digest: 7//GqD7cS6NPrPmKkD6wwI7qPBk=
+
+Name: assets/img/bsfl_mall_b_close.png
+SHA1-Digest: vn69ZBSLLYjrmtGcQ+sYzJgRcqI=
+
+Name: assets/img/bsfl_cover_b6.png
+SHA1-Digest: +lKm8X91g05sFYHqFbcF+OfqUjU=
+
+Name: assets/img/bsfl_over_b_back.png
+SHA1-Digest: AmFUXnkDrHKfblZDd4IpNKOFr/I=
+
+Name: assets/img/bsfl_run_move_point.png
+SHA1-Digest: V3ah+/PfxBoP+zKJjl/LUB93byI=
+
+Name: assets/bsfl_skin.plist
+SHA1-Digest: yBjD20I/zztX3+hMnSpUAeAQv30=
+
+Name: assets/Sonnenblume/zy_common_config_snowfish.data
+SHA1-Digest: OX80nS3Qd2SFV57niXyjBpUhVjo=
+
+Name: assets/skin/bsfl_snake_Skin_13.png
+SHA1-Digest: 5oB4HjiIcjMrXpe1mUIRiJMBKGQ=
+
+Name: assets/zhangpay_pic/zhangpay_top_title.png
+SHA1-Digest: i1WJIpHhjRjg5e4GXq/fx5Ludvg=
+
+Name: assets/img/bsfl_num9.png
+SHA1-Digest: A2nmR+i2MG4kpIVyuvUqRRSFaIE=
+
+Name: assets/skin/bsfl_snake_Skin_17.png
+SHA1-Digest: fGBXYUnfm/ek5xbLqoBODRpzMaA=
+
+Name: assets/img/bsfl_over_b_replay.png
+SHA1-Digest: FX0wJVdWQrzFK33HeI8NSA0t55M=
+
+Name: assets/img/bsfl_run_rank_title.png
+SHA1-Digest: 8KCelLL50GHRiYtMmJ8dCNI6aaA=
+
+Name: assets/D0E3407DF81D.png
+SHA1-Digest: b7qplcCDD8ByB5GV82x2yPrI9lE=
+
+Name: assets/img/bsfl_chg_kefu.png
+SHA1-Digest: EvQZiM5+JUJPbxboUHnv7tfllgw=
+
+Name: assets/img/bsfl_mall_skin_btn3.png
+SHA1-Digest: UdnS/tIFphTiFBUiOAFAa3reXjk=
+
+Name: assets/img/bsfl_chg_gift5.png
+SHA1-Digest: LfxsCwZPQgVjvkDZqjOhtzN4s+U=
+
+Name: assets/img/bsfl_run_score.png
+SHA1-Digest: 4BXMihrANKHuoktwNsK12qHWLnE=
+
+Name: assets/bsfl_skin.png
+SHA1-Digest: jJHfHasEgdVCrYIYWdb8CFel6+g=
+
+Name: assets/skin/bsfl_snake_Skin_3.png
+SHA1-Digest: Ipdp6hisBRYeFpfYH/qa9qwvxsE=
+
+Name: assets/img/bsfl_mall_skin_achi.png
+SHA1-Digest: V2xeedWeqpZ2fTKhzBot9M3o+7M=
+
+Name: assets/img/bsfl_run_b_grow.png
+SHA1-Digest: fsg/fQL1QKOxGB6rkjJdJsETLNg=
+
+Name: assets/img/bsfl_02.png
+SHA1-Digest: Z+Vjk4Zsged+0K/jitb6JE9P1/U=
+
+Name: assets/img/bsfl_cover_b4.png
+SHA1-Digest: l8TX64wDc/Y4wRDy97pTpNHhFzw=
+
+Name: assets/img/bsfl_skin_player_name.png
+SHA1-Digest: KPt+pAzdBR2QOBjLzSjKSvk8X1w=
+
+Name: classes.dex
+SHA1-Digest: uAkjZ1Yh+nJlclLQnRffiutrSTo=
+
+Name: assets/img/bsfl_over_bg.png
+SHA1-Digest: m6kUbmwcyZB+JQaow/TzFPWTc3U=
+
+Name: assets/ui/bsfl_GameLayer.csb
+SHA1-Digest: 0xHXRUzJKUQUhr1l4m+OXp+/9Lk=
+

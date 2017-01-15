@@ -1,0 +1,1 @@
+jarsigner -verbose -keystore %1 -signedjar signed_%2 %2 %1

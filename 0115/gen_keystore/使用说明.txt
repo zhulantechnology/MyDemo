@@ -1,4 +1,0 @@
-1. 在当前目录下打开cmd
-2. 执行 generate_keystore xxx.keystore 即可
-
-密码:dianhua+wj

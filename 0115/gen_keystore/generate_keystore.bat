@@ -1,1 +1,0 @@
-keytool -genkey -alias %1 -keyalg RSA -validity 40000 -keystore %1

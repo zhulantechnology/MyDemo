@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
@@ -36,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 // getJsonArray(DATA_URL);
-                // getJsonFromIO(DATA_URL);
                 String str = getAssetsJson(MainActivity.this, "home_data_test.json");
                 Log.e("XXX", "WANGJUN----------str---:" + str);
             }
@@ -60,19 +58,6 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
         return stringBuilder.toString();
-    }
-
-    //  使用 compile 'commons-io:commons-io:2.4' 获取文件内容
-    private void getJsonFromIO(String url) {
-        File file = new File("src/main/java/home_data_test.json");
-        try {
-            String content = FileUtils.readFileToString(file);
-            Log.e("XXX", "WANGJUN----------content---:" + content);
-        } catch (Exception e) {
-            Log.e("XXX", "WANGJUN----------e---:" + e);
-            e.printStackTrace();
-        }
-
     }
 
     /**

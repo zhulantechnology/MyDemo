@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     // 本地服务器地址
     public static String DATA_URL = "http://10.0.2.2:8080/MyWEB13/home_data_test.json";
     private TestBean testBean;
+    private HomeDataBean homeDataBean;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,9 +43,12 @@ public class MainActivity extends AppCompatActivity {
                 // -end
 
                 // --------------------根据json文件反序列化生成实体类对象-----------
-                createEntityFromJson();
+                //createEntityFromJson();
                 // -end
 
+                // --------------------获取VideoAPP的主界面数据，demo作用-----------
+                getHomeDataFromJson();
+                // -end
 
             }
         }.start();
@@ -106,6 +110,21 @@ public class MainActivity extends AppCompatActivity {
             testBean = new GsonBuilder().create().fromJson(new InputStreamReader(inputStream), TestBean.class);
 
             Log.e("XXX", "testBean-----areacode: " + testBean.getResult().getAreacode());
+        } catch (Throwable e) {
+            e.printStackTrace();
+        }
+    }
+
+    // 获取VideoAPP的主界面数据，demo作用
+    private void getHomeDataFromJson() {
+        try {
+            InputStream inputStream = getApplicationContext().getAssets().open("home_data.json");
+
+            //此方法将从指定读取器读取的Json反序列化为指定类的对象,对象中包含json中的数据
+            homeDataBean = new GsonBuilder().create().fromJson(
+                    new InputStreamReader(inputStream), HomeDataBean.class);
+
+            Log.e("XXX", "Homedata-----ads: " + homeDataBean.data.head.ads);
         } catch (Throwable e) {
             e.printStackTrace();
         }

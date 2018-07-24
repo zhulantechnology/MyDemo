@@ -1,0 +1,12 @@
+{
+  "resultcode": "200",
+  "reason": "Return Successed",
+  "result": {
+    "province": "Anhui",
+    "city": "hefei",
+    "areacode": "0570",
+    "zip": "310000",
+    "company": "uucc",
+    "card": "yidongkade"
+  }
+}

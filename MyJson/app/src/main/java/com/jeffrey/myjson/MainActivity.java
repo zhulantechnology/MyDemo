@@ -15,11 +15,15 @@ import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
+
+import com.google.gson.GsonBuilder;
 
 public class MainActivity extends AppCompatActivity {
     // 本地服务器地址
     public static String DATA_URL = "http://10.0.2.2:8080/MyWEB13/home_data_test.json";
+    private TestBean testBean;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,11 +33,19 @@ public class MainActivity extends AppCompatActivity {
         new Thread() {
             @Override
             public void run() {
-                // 读取服务器端json文件
+                // --------------------读取服务器端json文件------------------------
                 // getJsonArray(DATA_URL);
-                // 读取本地assets下json文件
-                String str = getAssetsJson(MainActivity.this, "home_data_test.json");
-                Log.e("XXX", "WANGJUN----------str---:" + str);
+                // -end
+
+                // --------------------读取本地assets下json文件---------------------
+                // String str = getAssetsJson(MainActivity.this, "home_data_test.json");
+                // -end
+
+                // --------------------根据json文件反序列化生成实体类对象-----------
+                createEntityFromJson();
+                // -end
+
+
             }
         }.start();
     }
@@ -84,6 +96,19 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
         return jsonArray;
+    }
+
+    private void createEntityFromJson() {
+        try {
+            InputStream inputStream = getApplicationContext().getAssets().open("test_json.json");
+
+            //此方法将从指定读取器读取的Json反序列化为指定类的对象,对象中包含json中的数据
+            testBean = new GsonBuilder().create().fromJson(new InputStreamReader(inputStream), TestBean.class);
+
+            Log.e("XXX", "testBean-----areacode: " + testBean.getResult().getAreacode());
+        } catch (Throwable e) {
+            e.printStackTrace();
+        }
     }
 
 }

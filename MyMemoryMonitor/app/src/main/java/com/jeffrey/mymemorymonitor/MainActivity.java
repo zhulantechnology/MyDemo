@@ -9,5 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // 这句会引起内存泄露，因为userManager对象持有了对这个Activity的引用
+        UserManager userManager = UserManager.getInstance(this);
     }
 }
